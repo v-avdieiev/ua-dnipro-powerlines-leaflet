@@ -7,6 +7,10 @@ A highly efficient JavaScript library for **slicing GeoJSON data into vector til
 primarily designed to enable rendering and interacting with large geospatial datasets
 on the browser side (without a server).
 
+## Connection with a developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.me/developer_support_bot)
+
 Created to power GeoJSON in [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js),
 but can be useful in other visualization platforms
 like [Leaflet](https://github.com/Leaflet/Leaflet), [OpenLayers](https://openlayers.org/) and [d3](https://github.com/mbostock/d3),
