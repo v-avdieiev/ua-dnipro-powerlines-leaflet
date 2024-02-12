@@ -10,7 +10,7 @@
   "dependencies": {
     "leaflet": "1.9.4",
     "parcel-bundler": "^1.6.1",
-    "semver": "7.5.4"
+    "semver": "7.6.0"
   },
   "devDependencies": {
     "@babel/core": "7.23.3",
